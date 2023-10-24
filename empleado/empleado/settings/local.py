@@ -1,6 +1,7 @@
 
 from .base import *
 
+# Este fichero es para hacer pruebas locales 
 DEBUG = True
 
 ALLOWED_HOSTS = []
