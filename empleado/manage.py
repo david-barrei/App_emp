@@ -20,4 +20,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    main() # para correr la aplicacion
